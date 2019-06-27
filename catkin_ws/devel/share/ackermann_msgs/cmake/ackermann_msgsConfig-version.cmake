@@ -1,1 +1,0 @@
-/home/monk/golfbot/catkin_ws/devel/.private/ackermann_msgs/share/ackermann_msgs/cmake/ackermann_msgsConfig-version.cmake

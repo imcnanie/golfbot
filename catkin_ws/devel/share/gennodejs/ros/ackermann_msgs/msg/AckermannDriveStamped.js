@@ -1,1 +1,0 @@
-/home/monk/golfbot/catkin_ws/devel/.private/ackermann_msgs/share/gennodejs/ros/ackermann_msgs/msg/AckermannDriveStamped.js
